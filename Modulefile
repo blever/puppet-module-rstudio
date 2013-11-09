@@ -9,4 +9,4 @@ project_page 'https://github.com/pdxcat/puppet-module-rstudio'
 
 ## Add dependencies, if any:
 dependency 'pdxcat/nginx', '>= 2012.04.02'
-dependency 'pdxcat-singleton', '>=0.0.20120401'
+dependency 'pdxcat/singleton', '>=0.0.4'
